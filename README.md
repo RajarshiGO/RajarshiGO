@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajarshiGoswami
-- 👀 I’m interested in exploring recent advances in AI and formal methods
-- 🌱 I’m currently learning different tools and frameworks for ML and formal systems
-- 💞️ I’m looking to collaborate on Deep Learning, Machine Learning, Computer Vision and NLP
+- 👀 I’m interested in exploring recent advances in AI, compilers formal methods
+- 🌱 I’m currently learning different tools and frameworks for ML and compiler systems
+- 💞️ I’m looking to collaborate on Compilers, Deep Learning, Machine Learning, Computer Vision and NLP
 - 📫 Reach me by email: rajarshi.goswami13@gmail.com
 
 <!---
